@@ -26,4 +26,3 @@ Handwritten digit recognition is a classic computer vision problem where the goa
 ## Results
 
 The CNN outperformed both the Perceptron and ANN, confirming that convolutional layers are better suited for capturing spatial patterns in image data compared to fully connected architectures.
-
